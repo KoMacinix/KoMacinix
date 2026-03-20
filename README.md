@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @KoMacinix
 - 👀 I’m interested in learinig
-- 🌱 I’m currently learning basic code
+- 🌱 I’m currently finishing my college diploma in software engineering 
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me (+13435588355)
-- 😄 Pronouns: 
 - ⚡ Fun fact: i'm funny
 
 <!---
